@@ -1,0 +1,20 @@
+PHOTO SOURCES · hs-057-pks P.K.'s Plumbing (Wave 12 2026-09-29 PT)
+All CC0 / public domain (Wikimedia Commons CC0/PD, Flickr CC0/PDM, rawpixel CC0, StockSnap CC0, WordPress Photos CC0) or prior verified Wave library.
+New Wave 12 files: see builds/_assets_dl/wave12/LICENSES.md for source URLs and licenses.
+Every file opened and checked for trade fit and job-label fit. No face is used or captioned as the owner or crew.
+Sample B/A photos are labeled on page as stock images typical of this kind of job.
+
+hero-site.jpg <- wave11/plumb-wrenches-pipe.jpg : pipe wrenches on a pipe (rawpixel CC0 5904346)
+services-trade.jpg <- wave11/copper-valves-filter.jpg : copper supply lines with red ball valves and a filter housing (rawpixel CC0 6041215)
+people-crew.jpg <- wave11/tools-wrenches-wood.jpg : wrenches on a wood bench (Flickr CC0 32708495171)
+people-marek.jpg <- wave11/kitchen-sink-window.jpg : kitchen sink by a window (Flickr CC0 160444800)
+people-tom.jpg <- wave11/faucet-glass-water.jpg : glass filling at a kitchen faucet, hand only (Flickr CC0 51487313271)
+coverage-house.jpg <- wave11/house-gabled-lawn.jpg : gabled single-family home with lawn (prior verified library wave2/house-suburb.jpg)
+wh-basement-tank.jpg <- wave11/wh-basement-tank.jpg : tank water heater in a utility room (Flickr PDM 17715613311)
+wh-tankless-wall.jpg <- wave12/wh-tankless-wall.jpg : Wall-mounted outdoor tankless gas water heater (Rinnai) (wikimedia Public domain https://commons.wikimedia.org/wiki/File:%E3%82%A8%E3%82%B3%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%BA_Rinnai_RUX-K2402W.jpg)
+rem-framing-interior.jpg <- cr0925/rem-framing-interior.jpg : House framing (rawpixel CC0 https://www.rawpixel.com/image/4029901/photo-image-wood-construction-building)
+shower-valve-tile.jpg <- wave11/shower-valve-tile.jpg : tiled shower with valve and hand shower (rawpixel CC0 5902607)
+plumb-iron-fittings.jpg <- wave11/plumb-iron-fittings.jpg : black iron pipe fittings (rawpixel CC0 5947855)
+utility-sink.jpg <- wave11/utility-sink.jpg : utility sink with faucet (Flickr CC0 95565646)
+
+Note: Wordmark per packet Logo line: P.K.'s Plumbing (other listings spell it P K'S Plumbing and PKS Plumbing). Tankless photo from wave12 set. No domain found for the business; none linked.
