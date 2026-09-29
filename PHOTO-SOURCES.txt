@@ -11,7 +11,7 @@ people-marek.jpg <- wave11/kitchen-sink-window.jpg : kitchen sink by a window (F
 people-tom.jpg <- wave11/faucet-glass-water.jpg : glass filling at a kitchen faucet, hand only (Flickr CC0 51487313271)
 coverage-house.jpg <- wave11/house-gabled-lawn.jpg : gabled single-family home with lawn (prior verified library wave2/house-suburb.jpg)
 wh-basement-tank.jpg <- wave11/wh-basement-tank.jpg : tank water heater in a utility room (Flickr PDM 17715613311)
-wh-tankless-wall.jpg <- wave12/wh-tankless-wall.jpg : Wall-mounted outdoor tankless gas water heater (Rinnai) (wikimedia Public domain https://commons.wikimedia.org/wiki/File:%E3%82%A8%E3%82%B3%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%BA_Rinnai_RUX-K2402W.jpg)
+wh-tankless-wall.jpg <- wave12/wh-tankless-wall.jpg (portrait photo placed on a blurred copy of itself so the whole unit shows in the wide frame) : Wall-mounted outdoor tankless gas water heater (Rinnai) (wikimedia Public domain https://commons.wikimedia.org/wiki/File:%E3%82%A8%E3%82%B3%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%BA_Rinnai_RUX-K2402W.jpg)
 rem-framing-interior.jpg <- cr0925/rem-framing-interior.jpg : House framing (rawpixel CC0 https://www.rawpixel.com/image/4029901/photo-image-wood-construction-building)
 shower-valve-tile.jpg <- wave11/shower-valve-tile.jpg : tiled shower with valve and hand shower (rawpixel CC0 5902607)
 plumb-iron-fittings.jpg <- wave11/plumb-iron-fittings.jpg : black iron pipe fittings (rawpixel CC0 5947855)
